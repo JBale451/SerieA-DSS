@@ -84,6 +84,6 @@ install.packages(c(
 shiny::runApp("app/")
 
 # Author & Academic Context
-# Author: Jarim Natan Balesini (@JBale451)
-# Context: Exam Project / Thesis Defense in Statistical Learning & Data Science
-# Focus: Bridging theoretical machine learning algorithms with interactive Decision Support Systems (DSS).
+Author: Jarim Natan Balesini (@JBale451)
+Context: Exam Project / Thesis Defense in Statistical Learning & Data Science
+Focus: Bridging theoretical machine learning algorithms with interactive Decision Support Systems (DSS).
