@@ -29,7 +29,7 @@ The application translates complex predictive models into dynamic, real-time UI 
 * **GAM Non-Linear Spline Response Curves:** Evaluates diminishing marginal returns using *Natural Cubic Splines* to model how incremental shots affect win probability, holding all other match conditions constant.
 * **Baseline vs. What-If Comparison:** Instantaneous comparative visual analysis between baseline pre-match expectations and simulated tactical adjustments.
 
-# Modules in Development (Post-Exam Scope)
+# Modules in Development 
 * **Tab 3 — League Analytics:** Evaluates overall league efficiency and compares actual points against Expected Points ($xPTS$).
 * **Tab 4 — Team Analysis:** Profiles individual club performance metrics across offensive and defensive dimensions.
 * **Tab 5 — Model Analytics:** Scientific model validation suite featuring confusion matrices, ROC/AUC curves, residual diagnostics, and cross-validated $MSE$ benchmarks.
